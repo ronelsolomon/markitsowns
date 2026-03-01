@@ -1,0 +1,6 @@
+markitdown>=0.1.0
+openai>=1.0.0
+ollama>=0.1.0
+python-dotenv>=1.0.0
+argparse
+pathlib
